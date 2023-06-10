@@ -130,16 +130,16 @@ const Home: NextPage = () => {
       <footer className="flex h-24 w-full items-center justify-center">
         <a
           className="flex items-center justify-center gap-2"
-          href="https://github.com/noobnooc/ohmygpt"
+          href="https://t.zsxq.com/0cy1WzxXu"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span className="opacity-50">Powered by</span>{" "}
+          <span className="opacity-50">Powered by ChatGPT @.</span>{" "}
           <span
             className={classNames(spaceGrotesk.className)}
             style={{ color: client.appThemeColor }}
           >
-            OhMyGPT
+            不止GPT
           </span>
         </a>
       </footer>
